@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks For Benefit and Cost of Dam Project with uisng Python
+# Jupyter Notebooks For Benefit and Cost of Dam Project with uisng Python
 
 Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
 
